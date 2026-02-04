@@ -1,4 +1,4 @@
-# 🎙️ Mentora – The Emotion-Aware, Voice-First AI Study & Wellness Assistant
+# 🎙️ The Emotion-Aware, Voice-First AI Study & Wellness Assistant
 
 > Built for the Bolt.new Hackathon  
 > Team Members: Ewa, Naghul, Gurmeet, Sandesh  
